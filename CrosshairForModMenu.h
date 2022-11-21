@@ -28,3 +28,4 @@ UIWindow *mainWindow = [UIApplication sharedApplication].keyWindow;
    [mainWindow addSubview:vertical];
 //by label
 ...
+@end
